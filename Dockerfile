@@ -1,4 +1,3 @@
-FROM puja/webapp
 
 ADD website /var/www/html
 
